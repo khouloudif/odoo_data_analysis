@@ -1,5 +1,5 @@
 odoo:
-  url: "https://nonene2.odoo.com/"
-  db: "nonene2"
-  username: "khouloudouardiouardi@gmail.com"
-  password: "Owtm200123_2001"
+  url: "https://<your_odoo_url>.odoo.com/"
+  db: "<your_odoo_database>"
+  username: "<your_username>@gmail.com"
+  password: "<your_username>"
